@@ -18,8 +18,6 @@ C++20 (WinLibs GCC 12.x ou superior)
    ```powershell
    cd caminho\da\pasta
 
-4. Compile o código utilizando o compilador g++ do WinLibs:
-
-  C:\winlibs\bin\g++ -std=c++20 -o programa main.cpp
+4. Compile o código utilizando o compilador g++ do WinLibs.
 
 5. Execute o programa gerado.
