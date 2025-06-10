@@ -6,7 +6,7 @@ C++20 (WinLibs GCC/MinGW)
 ## Versão
 C++20 (WinLibs GCC 12.x ou superior)
 
-## Como Executar
+## Como Executar (Lista 1 e 2)
 
 1. Faça o download do compilador WinLibs (GCC/MinGW) para Windows:  
    [https://winlibs.com/](https://winlibs.com/)
