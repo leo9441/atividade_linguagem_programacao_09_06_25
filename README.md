@@ -6,7 +6,7 @@ C++20 (WinLibs GCC/MinGW)
 ## Versão
 C++20 (WinLibs GCC 12.x ou superior)
 
-## Como Executar (Lista 1 e 2)
+## Como Executar 
 
 1. Faça o download do compilador WinLibs (GCC/MinGW) para Windows:  
    [https://winlibs.com/](https://winlibs.com/)
@@ -36,7 +36,7 @@ IntelliJ IDEA
 
 ## Como Executar os Programas
 
-1. **Instale o Java JDK 24** (Lista 3)
+1. **Instale o Java JDK 24** 
    Faça o download do Java Development Kit (JDK) 24 no site oficial da Oracle ou no OpenJDK:
    [https://www.oracle.com/java/technologies/javase/jdk24-archive-downloads.html](https://www.oracle.com/java/technologies/javase/jdk24-archive-downloads.html)
 
